@@ -60,12 +60,12 @@
     "model": "products.product",
     "fields": {
       "sku": "pp5002111605",
-      "name": "Tulsi Brahmi / Gotu Kola Tea",
-      "description": "Organic Tulsi Gotu Kola Tea from Organic India. Tulsi/Basil is a herb that has been used for centuries in Ayurveda for its healing/adaptogenic properties.Gotu Kola is a herb that has been used within Ayurveda to support the mind and body with calmness. It is also an excellent braintonic.",
-      "price": 59,
+      "name": "Tulsi Masala Chai Tea",
+      "description": "Organic Tulsi Masala Chai Tea from Organic India. Tulsi/Basil is a herb that has been used for centuries in Ayurveda for its healing/adaptogenic properties. It also increases immunity to give better health. This blend also contains the best quality Assam black tea and ground spices (masala). The spices give you the classic indian spicy tea flavour and it tastes amazing with milk.",
+      "price": 129,
       "category": 9,
       "rating": 5,
-      "image_url": "https://shopcdn2.textalk.se/shop/ws10/42010/art10/h5473/165035473-origpic-f73ed3.jpg?max-width=500&max-height=500&quality=85",
+      "image_url": "https://shopcdn2.textalk.se/shop/ws10/42010/art10/h7331/26097331-origpic-1a7042.jpg?max-width=500&max-height=500&quality=85",
       "image": "tea-img-1.jpg"
     }
   },
