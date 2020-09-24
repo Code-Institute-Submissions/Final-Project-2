@@ -17,10 +17,10 @@
                 Ayurvedic Health Bundle
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="clothing-link">
-                <a href="" class="dropdown-item">Herbs &amp; Supplements</a>
-                <a href="" class="dropdown-item">Food</a>
-                <a href="" class="dropdown-item">Tea</a>
-                <a href="" class="dropdown-item">All Products</a>
+                <a href="{% url 'products' %}?category=herbs,supplements" class="dropdown-item">Herbs &amp; Supplements</a>
+                <a href="{% url 'products' %}?category=food" class="dropdown-item">Food</a>
+                <a href="{% url 'products' %}?category=tea" class="dropdown-item">Tea</a>
+                <a href="{% url 'products' %}?category=herbs,supplements,food,tea" class="dropdown-item">All Products</a>
             </div>
         </li>
 
@@ -29,9 +29,9 @@
                 Ayurvedic Bodycare
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="homeware-link">
-                <a href="" class="dropdown-item">Skin &amp; Bodycare</a>
-                <a href="" class="dropdown-item">Oil &amp; Massage Products</a>
-                <a href="" class="dropdown-item">All Bodycare</a>
+                <a href="{% url 'products' %}?category=skin_bodycare" class="dropdown-item">Skin &amp; Bodycare</a>
+                <a href="{% url 'products' %}?category=oil_massage" class="dropdown-item">Oil &amp; Massage Products</a>
+                <a href="{% url 'products' %}?category=skin_bodycare,oil_massage" class="dropdown-item">All Bodycare</a>
             </div>
         </li>
 
@@ -40,10 +40,10 @@
                 Special Offers
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="specials-link">
-                <a href="" class="dropdown-item">New Arrivals</a>
-                <a href="" class="dropdown-item">Deals</a>
-                <a href="" class="dropdown-item">Clearance</a>
-                <a href="" class="dropdown-item">All Specials</a>
+                <a href="{% url 'products' %}?category=new_arrivals" class="dropdown-item">New Arrivals</a>
+                <a href="{% url 'products' %}?category=deals" class="dropdown-item">Deals</a>
+                <a href="{% url 'products' %}?category=clearance" class="dropdown-item">Clearance</a>
+                <a href="{% url 'products' %}?category=new_arrivals,deals,clearance" class="dropdown-item">All Specials</a>
             </div>
         </li>
     </ul>
