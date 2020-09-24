@@ -1,0 +1,324 @@
+[
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5001340155",
+      "name": "7 Grain Chapati Atta 1kg, 24 Mantra",
+      "description": "Ingredients: Wheat*, Maize*, Ragi* (Finger Millet), Jowar* (Sorghum), Green Mungbean*, Barley*, Soybean*. *Organic",
+      "price": 99,
+      "category": 6,
+      "rating": 4.6,
+      "image_url": "https://www.ayurvedabutiken.se/en/food/rice-grains/7-grain-atta-1kg",
+      "image": "food_img-1.jpg"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5001600425",
+      "name": "Ajwain Whole/ Carom Seeds",
+      "description": " Organic Ajwain or Carom Seeds are very good to use in your cooking because they strengthen the production of gastric juices in the stomach and digestive tract. This gives better metabolism of the food we eat, especially the heavier dishes we eat. Ajwain seeds taste good too, they can be chewed raw or used as a loose tea for those who like that.",
+      "price": 99,
+      "category": 6,
+      "rating": 4.6,
+      "image_url": "https://shopcdn2.textalk.se/shop/ws10/42010/art10/h4856/26144856-origpic-598275.jpg?max-width=500&max-height=500&quality=85",
+      "image": "food_img-2.jpg"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5001730010",
+      "name": "Aloe Vera Juice Pukka",
+      "description": " Certified Organic Aloe Vera Juice from Pukka.This juice can be consumed by all three doshas; Vata, Pitta and Kapha. It is especially good for Vata and Pitta heavy bodies that feel low on energy.Aloe Vera is gentle on the stomach and is a superfood that contains most of the nutrients our body needs.",
+      "price": 219,
+      "category": 6,
+      "rating": 4.7,
+      "image_url": "https://shopcdn2.textalk.se/shop/ws10/42010/art10/h3855/25543855-origpic-39eae7.jpg?max-width=500&max-height=500&quality=85",
+      "image": "food_img-3.jpg"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5001890157",
+      "name": "Ginger-Lime Chutney",
+      "description": "Chutney is recommended in Ayurveda especially because the tastes activate your metabolism.",
+      "price": 59,
+      "category": 6,
+      "rating": 3,
+      "image_url": "https://shopcdn2.textalk.se/shop/ws10/42010/art10/h0255/175570255-origpic-62468a.jpg?max-width=500&max-height=500&quality=85",
+      "image": "food_img-4.jpg"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002111605",
+      "name": "Tulsi Brahmi / Gotu Kola Tea",
+      "description": "Organic Tulsi Gotu Kola Tea from Organic India. Tulsi/Basil is a herb that has been used for centuries in Ayurveda for its healing/adaptogenic properties.Gotu Kola is a herb that has been used within Ayurveda to support the mind and body with calmness. It is also an excellent braintonic.",
+      "price": 59,
+      "category": 9,
+      "rating": 5,
+      "image_url": "https://shopcdn2.textalk.se/shop/ws10/42010/art10/h5473/165035473-origpic-f73ed3.jpg?max-width=500&max-height=500&quality=85",
+      "image": "tea-img-1.jpg"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002260206",
+      "name": "Tulsi Sleep Tea",
+      "description": "Organic Tulsi Sleep Tea from Organic India. Tulsi/Basil is a herb that has been used for centuries in Ayurveda for its healing/adaptogenic properties.Sleep contains a mixture of Ayurvedic herbs that calm both the body and mind, they also manage stress. It is very suitable to drink in the evenings.",
+      "price": 59,
+      "category": 9,
+      "rating": 4.7,
+      "image_url": "https://shopcdn2.textalk.se/shop/ws10/42010/art10/h0247/73230247-origpic-41f058.jpg?max-width=500&max-height=500&quality=85",
+      "image": "tea-img-2.jpg"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002440521",
+      "name": "Tulsi Green Tea Ashwagandha",
+      "description": "Tulsi Green Tea Ashwagandha from Organic India contains the benefits of Tulsi combined with Green Tea and Ashwagandha root. Green tea contains caffeine and helps improve energy and metabolism. Ashwagandha activates the body and mind, while it also offers an inner calmness to your mind.",
+      "price": 59,
+      "category": 9,
+      "rating": 4.4,
+      "image_url": "https://shopcdn2.textalk.se/shop/ws10/42010/art10/h0705/167670705-origpic-ab93ec.jpg?max-width=500&max-height=500&quality=85",
+      "image": "tea-img-3.jpg"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002601115",
+      "name": "Tulsi Lemon Ginger Tea",
+      "description": "Organic Tulsi Lemon Ginger Tea from Organic India. Tulsi/Basil is a herb that has been used for centuries in Ayurveda for its healing/adaptogenic properties.Ginger and lemon have been used across the world as a home remedy against colds, coughs and generally weak immunity. Healthy and tasty to drink on a cold evening or in rainy weather.",
+      "price": 129,
+      "category": 9,
+      "rating": 4.5,
+      "image_url": "https://shopcdn2.textalk.se/shop/ws10/42010/art10/h7264/26097264-origpic-e4e980.jpg?max-width=500&max-height=500&quality=85",
+      "image": "tea-img-4.jpg"
+    }
+  },
+  {
+    "pk": 9,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002690715",
+      "name": "Arjuna",
+      "description": "Organic Arjuna from Cosmoveda contains the herb Terminalia Arjuna. Arjuna is a rich source of Coenzyme Q10. The herb is used in Ayurveda to strengthen the heart and decrease blood pressure.",
+      "price": 249,
+      "category": 5,
+      "rating": 4.7,
+      "image_url": "https://shopcdn2.textalk.se/shop/ws10/42010/art10/h9695/31209695-origpic-b2e1d1.jpg?max-width=500&max-height=500&quality=85",
+      "image": "Supplement-img-1.jpg"
+    }
+  },
+  {
+    "pk": 10,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002701115",
+      "name": "Arjuna Powder",
+      "description": "Organic Arjuna  contains the herb Terminalia Arjuna. Arjuna is a rich source of Coenzyme Q10. The herb is used in Ayurveda for the heart and vascular system.",
+      "price": 159,
+      "category": 5,
+      "rating": 4.4,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0418201317011949M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "Supplement-img-2.jpg"
+    }
+  },
+  {
+    "pk": 11,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002761055",
+      "name": "Chyavanprash",
+      "description": "Chyawanprash is a traditional indian supplement filled with fruits, herbs, spices and honey. The recipe was created roughly 2500 years ago by the Ayurvedic Rishi Chyavana and is described in the book Charaka Samhita - The base book of Ayurveda. It has always been used as a rejuvenating and all around supplement that makes sure the body gets all the nutrients it might need. It looks like a dark paste and contains amla fruit, gooseberries and some of Ayurvedas most nourishing herbs that help the body build a strong immunity. It can also be taken after a sickness to rebuild the body's defences.",
+      "price": 249,
+      "category": 5,
+      "rating": 3,
+      "image_url": "https://shopcdn2.textalk.se/shop/ws10/42010/art10/h5739/162775739-origpic-04c6b9.jpg?max-width=500&max-height=500&quality=85",
+      "image": "Supplement-img-4.jpg"
+    }
+  },
+  {
+    "pk": 12,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002820069",
+      "name": "Brahmi Ghee",
+      "description": "Brahmi which is also called Bacopa Monnieri is a herb that is used to support the brain in Ayurveda. Its benefits makes it popular in many Ayurvedic preparations for memory, stress, exhaustion Pitta imbalances and Kapha imbalances. The uptake of the herb is improved when prepared in this form with ghee, it is then called Ghrita.",
+      "price": 249,
+      "category": 5,
+      "rating": 4.6,
+      "image_url": "https://shopcdn2.textalk.se/shop/ws10/42010/art10/h9571/170589571-origpic-06e92f.jpg?max-width=500&max-height=500&quality=85",
+      "image": "Supplement-img-3.jpg"
+    }
+  },
+  {
+    "pk": 13,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002820147",
+      "name": "Massage Oil - Vata",
+      "description": "Organic Vata balancing massage oil  is a mixture of the classic herbs that are known to balance Vata Dosha. It has been matured according to Ayurvedic recommendations and is ready to be used as it is. Self-massage gives a deep sense of wellbeing and really helps the body handle the day to day life.",
+      "price": 149,
+      "category": 7,
+      "rating": 3.2,
+      "image_url": "https://shopcdn2.textalk.se/shop/ws10/42010/art10/h0540/26100540-origpic-0637a6.jpg?max-width=500&max-height=500&quality=85",
+      "image": "oil-img-3.jpg"
+    }
+  },
+  {
+    "pk": 14,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002910572",
+      "name": "Balatailam",
+      "description": "Traditionally prepared Bala Tailam",
+      "price": 99,
+      "category": 7,
+      "rating": 4.7,
+      "image_url": "https://shopcdn2.textalk.se/shop/ws10/42010/art10/h8615/177558615-origpic-2ad2e7.png?max-width=500&max-height=500&quality=85",
+      "image": "oil-img-4.png"
+    }
+  },
+  {
+    "pk": 15,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002990740",
+      "name": "Nasya Oil",
+      "description": "This mixture is based on sesame oil, medicated with goats milk and 25 herbs. It protects the nose and sinuses, as well as clearing the nasal passages. Open nasal passages work like a clean ventilation system to oxygenate our whole body, nourish our brain and keeps the mind fresh. It is also protective against infections to keep the nasal passages moistened.",
+      "price": 125,
+      "category": 7,
+      "rating": 4.8,
+      "image_url": "https://shopcdn2.textalk.se/shop/ws10/42010/art10/h1287/177201287-origpic-20cf7d.jpg?max-width=500&max-height=500&quality=85",
+      "image": "oil-img-2.jpg"
+    }
+  },
+  {
+    "pk": 16,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003050248",
+      "name": "AyurFlex Herbal Oil",
+      "description": "Ayurflex (Joint Soothe II, also called MA 929) is a powerful oil which combines 79 ayurvedic herbs. Massaging the joints supports the circulation which is important for the nourishment of the joints, removing waste products and lubricating the joints.",
+      "price": 195,
+      "category": 7,
+      "rating": 4.4,
+      "image_url": "https://shopcdn2.textalk.se/shop/ws10/42010/art10/h4697/177224697-origpic-3921ac.jpg?max-width=500&max-height=500&quality=85",
+      "image": "oil-img-1.jpg"
+    }
+  },
+  {
+    "pk": 17,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003070787",
+      "name": "Anti-aging Face and Body Oil",
+      "description": "An organic face and body oil for mature skin based on traditional Ayurvedic ingredients. Anti-age oil improves skin elasticity, firmness and softness. It has a warm sweet scent of patchouli and vanilla. Vegan friendly.",
+      "price": 169,
+      "category": 2,
+      "rating": 4.4,
+      "image_url": "https://shopcdn2.textalk.se/shop/ws10/42010/art10/h4641/166884641-origpic-f6c834.jpg?max-width=500&max-height=500&quality=85",
+      "image": "skincare-img-1.jpg"
+    }
+  },
+  {
+    "pk": 18,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003090182",
+      "name": "Healthy Hair and Nails",
+      "description": "Healthy Hair and Nails contains nutritions to enrich the grow of health and strong hair and nails.",
+      "price": 225,
+      "category": 2,
+      "rating": 4.8,
+      "image_url": "https://shopcdn2.textalk.se/shop/ws10/42010/art10/h3681/174543681-origpic-1204d4.jpg?max-width=500&max-height=500&quality=85",
+      "image": "skincare-img-4.jpg"
+    }
+  },
+  {
+    "pk": 19,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003090186",
+      "name": "Aloe Vera Skin Lotion",
+      "description": " Aloe Vera Skin Lotion is a moisturising and softening skin lotion with a base of organic Aloe Vera, shea butter, jojoba oil, sunflower oil and vitamin E. It helps against dry skin, nourishes and keeps the skin looking fresh and balanced. Suits all skin types.",
+      "price": 129,
+      "category": 2,
+      "rating": 5,
+      "image_url": "https://shopcdn2.textalk.se/shop/ws10/42010/art10/h5076/30165076-origpic-5d5076.png?max-width=500&max-height=500&quality=85",
+      "image": "skincare-img-3.png"
+    }
+  },
+  {
+    "pk": 20,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003161326",
+      "name": "Aloe Vera Face Wash",
+      "description": "Aloe Vera Face Wash is a creamy facewash with organic Aloe Vera with calming and moisturizing skin. In combination with natural ingredients such as ringflower it cleanses the skin deeply and leaves it smooth. ",
+      "price": 119,
+      "category": 2,
+      "rating": 4.7,
+      "image_url": "https://shopcdn2.textalk.se/shop/ws10/42010/art10/h4895/161714895-origpic-f30ce8.jpg?max-width=500&max-height=500&quality=85",
+      "image": "skincare-img-2.jpg"
+    }
+  },
+  {
+    "pk": 21,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003230723",
+      "name": "Ayurvedic Iron Rasayana",
+      "description": "Ayurvedic herbal supplement with minerals. Ingredients :(mg/2 tab) Asphaltum punjabianum (shilajit) 220, lakritsrot 120, rårörsocker 120, emblica officialis (amla) 60, kardemumma 60, dadlar 60, tinospora cordifolia 30, cinnamomum tamala 30, kryddnejlika 30, mesua ferrea30, phyllantus niruri 30, pärla 30, eclipta alba 15, järnoxid 15. Förtjockningsmedel gummi arabicum; smörjmedel talk.",
+      "price": 195,
+      "category": 1,
+      "rating": 4.3,
+      "image_url": "https://shopcdn2.textalk.se/shop/ws10/42010/art10/h2341/174892341-origpic-7a43ce.jpg?max-width=500&max-height=500&quality=85",
+      "image": "herb-img-1.jpg"
+    }
+  },
+  {
+    "pk": 22,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003270936",
+      "name": "Amla / Amalaki 60cps",
+      "description": "Amla or Amalaki which is also called Indian Gooseberry is one of the most C-vitamin rich fruits available. It is therefore categorized as a superfruit. Fully grown it is slightly see though and as big as a lime.Apart from the C-vitamin boost Amla is used to balance the stomach's function in Ayurveda. Amla is also rich in iron, calcium, phosporous and dietary fiber. The fiber also gives to a gentle laxative effect",
+      "price": 199,
+      "category": 1,
+      "rating": 5,
+      "image_url": "https://shopcdn2.textalk.se/shop/ws10/42010/art10/h5508/25545508-origpic-5ad85e.png?max-width=500&max-height=500&quality=85",
+      "image": "herb-img-2.png"
+    }
+  },
+  {
+    "pk": 23,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003360384",
+      "name": "B-12 sugtablett 100 st",
+      "description": "Holistic B-12 is a dietary supplement with vitamin B12 and folic acid that is part of many functions in the cells, including the formation of red blood cells.The biologically active form of B12 in the body is methylcobalamin, but the most common form of dietary supplements is cyanocobalamin which the body must convert to methylcobalamin. Holistic B-12 contains methylcobalamin.",
+      "price": 219,
+      "category": 1,
+      "rating": 4.8,
+      "image_url": "https://shopcdn2.textalk.se/shop/ws10/42010/art10/h5349/165055349-origpic-453827.jpg?max-width=500&max-height=500&quality=85",
+      "image": "herb-img-3.jpg"
+    }
+  }
+]

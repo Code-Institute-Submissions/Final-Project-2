@@ -1,0 +1,74 @@
+[
+  {
+    "pk": 1,
+    "model": "products.category",
+    "fields": {
+      "name": "herbs",
+      "friendly_name": "Herbs"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "products.category",
+    "fields": {
+      "name": "skin_bodycare",
+      "friendly_name": "Skin & Bodycare"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "products.category",
+    "fields": {
+      "name": "clearance",
+      "friendly_name": "Clearance"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "products.category",
+    "fields": {
+      "name": "deals",
+      "friendly_name": "Deals"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "products.category",
+    "fields": {
+      "name": "supplements",
+      "friendly_name": "Supplements"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "products.category",
+    "fields": {
+      "name": "food",
+      "friendly_name": "Food"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "products.category",
+    "fields": {
+      "name": "oil_massage",
+      "friendly_name": "Oil & Massage"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "products.category",
+    "fields": {
+      "name": "new_arrivals",
+      "friendly_name": "New Arrivals"
+    }
+  },
+  {
+    "pk": 9,
+    "model": "products.category",
+    "fields": {
+      "name": "tea",
+      "friendly_name": "Tea"
+    }
+  }
+]
