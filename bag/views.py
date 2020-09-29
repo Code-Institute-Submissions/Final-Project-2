@@ -18,7 +18,7 @@ def add_to_bag(request, item_id):
     redirect_url = request.POST.get('redirect_url')
     bag = request.session.get('bag', {})
 
-    if item_id in list(bag.keys()):
+    if item_id in bag.keys():
         bag[item_id] += quantity
         messages.success(request, f'Updated {product.name} quantity to {bag[item_id]}')
     else:
@@ -52,7 +52,7 @@ def remove_from_bag(request, item_id):
     try:
         product = get_object_or_404(Product, pk=item_id)
         bag = request.session.get('bag', {})
-        
+ 
         bag.pop(item_id)
         messages.success(request, f'Removed {product.name} from your bag')
 
