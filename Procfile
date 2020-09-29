@@ -1,1 +1,1 @@
-web: gunicorn ayurvedic_boutique.wsgi.application 
+web: gunicorn ayurvedic_boutique.wsgi:application 
