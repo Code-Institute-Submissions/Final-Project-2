@@ -178,5 +178,7 @@ python3 manage.py runserver
 15. Once the build in Heroku is complete, click the Open app button.
 16. Objects can then be added to the new postgres database using the Admin Panel and logging in with your superuser credentials.
  #### Credits
-1. The images and products are used only for educaational purpose and not for any commerical use.
+ ##### Acknowledgements
 
+1. The images and products are used only for educaational purpose and not for any commerical use.
+2. I have referred codes from Django course at code institute and sample projects.
